@@ -5,5 +5,3 @@
 + 2006: Version 2.0
 + 2011: Typesafe founded
 + 2016: Version 2.10.4
-
-
